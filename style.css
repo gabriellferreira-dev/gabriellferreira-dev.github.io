@@ -54,4 +54,6 @@ p {
 .style-titles {
   font-family: "Montserrat", sans-serif;
   color: #393e46;
+  letter-spacing: 1px;
+  font-weight: 600;
 }
