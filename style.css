@@ -18,6 +18,30 @@ h1 {
   line-height: 10px;
 }
 
+#skill-1 {
+    font-size: 16px;
+}
+
+#skill-2 {
+    font-size: 17px;
+}
+
+#skill-3 {
+    font-size: 18px;
+}
+
+#skill-4 {
+    font-size: 19px;
+}
+
+#skill-5 {
+    font-size: 20px;
+}
+
+#skill-6 {
+    font-size: 21px;
+}
+
 p {
   font-family: "Noto Serif", serif;
 }
