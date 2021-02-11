@@ -1,0 +1,57 @@
+body {
+  background-color: #f8f8f8;
+  font-family: "Roboto", sans-serif;
+}
+
+h1 {
+  font-family: "Big Shoulders Display", cursive;
+  font-weight: 800;
+  font-size: 40px;
+  letter-spacing: 1px;
+  line-height: 0px;
+  text-transform: uppercase;
+  color: #222831;
+}
+
+#caption {
+  font-family: "Noto Serif", serif;
+  line-height: 10px;
+}
+
+#skill-1 {
+    font-size: 16px;
+}
+
+#skill-2 {
+    font-size: 17px;
+}
+
+#skill-3 {
+    font-size: 18px;
+}
+
+#skill-4 {
+    font-size: 19px;
+}
+
+#skill-5 {
+    font-size: 20px;
+}
+
+#skill-6 {
+    font-size: 21px;
+}
+
+p {
+  font-family: "Noto Serif", serif;
+}
+
+.highlight {
+  font-weight: 500;
+  font-family: "Oswald", sans-serif;
+}
+
+.style-titles {
+  font-family: "Montserrat", sans-serif;
+  color: #393e46;
+}
