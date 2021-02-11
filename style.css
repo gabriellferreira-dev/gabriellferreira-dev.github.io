@@ -1,0 +1,28 @@
+body {
+  background-color: #eee;
+  font-family: 'Roboto', sans-serif;
+}
+
+h1 {
+  font-family: "Big Shoulders Display", cursive;
+  font-weight: 800;
+  font-size: 40px;
+  letter-spacing: 1px;
+  line-height: 0px;
+  text-transform: uppercase;
+  color: #222831;
+}
+
+#caption {
+  font-family: "Noto Serif", serif;
+  line-height: 10px;
+}
+
+p {
+  font-family: "Noto Serif", serif;
+}
+
+.style-titles {
+  font-family: "Montserrat", sans-serif;
+  color: #393e46;
+}
